@@ -1,0 +1,40 @@
+NAME: kojied
+AGE: Unknown
+OCCUPATION: Unknown
+STATUS: Unknown
+LOCATION: Not explicitly mentioned
+TIER: Heavy Contributor
+ARCHETYPE: Strategic Thinker/Problem Solver
+
+----------------------------------------
+
+MOTIVATIONS:
+- Participates in discussions on various topics, including video games, strategy games, and AI-generated content.
+- Shares expertise and insights on game mechanics and strategies.
+- Engages in conversations about personal experiences and interests, such as food and travel.
+
+----------------------------------------
+
+PERSONALITY:
+- EXTROVERSION / INTROVERSION: kojied's interaction style is likely introverted, as they tend to provide in-depth, thoughtful responses to specific questions and topics, rather than initiating conversations or sharing personal anecdotes. (Example: Comment on "how did you maintain character consistency?" in r/ChatGPT)
+- INTUITION / SENSING: kojied's focus on strategic thinking and problem-solving suggests a more sensing personality, as they tend to analyze and evaluate specific details and mechanics. (Example: Comment on "How does influence on hard work" in r/ManorLords)
+- THINKING / FEELING: kojied's communication style is neutral and pragmatic, focusing on providing information and insights rather than expressing emotions or personal opinions. (Example: Comment on "NFTs in 2025 where are we headed" in r/NFT)
+- PERCEIVING / JUDGING: kojied's interaction style appears structured and goal-driven, as they tend to provide well-reasoned and detailed responses to specific questions and topics. (Example: Comment on "Rate my starting location" in r/civ5)
+
+----------------------------------------
+
+BEHAVIOUR & HABITS:
+- Frequently participates in discussions on Reddit, sharing expertise and insights on various topics.
+- Engages in conversations about personal experiences and interests, such as food and travel.
+- Uses Reddit to share and discuss game strategies and mechanics. (Example: Comment on "How does influence on hard work" in r/ManorLords)
+- Has a strong interest in AI-generated content and its applications. (Example: Comment on "I used AI to create this short film on human" in r/ChatGPT)
+
+FRUSTRATIONS:
+- Expressed frustration with the lack of late-game content in certain games. (Example: Comment on "Great game I hope there is something new added in" in r/ManorLords)
+- Criticized the current state of NFTs and their community. (Example: Comment on "NFTs in 2025 where are we headed" in r/NFT)
+
+GOALS & NEEDS:
+- Seeks to share expertise and insights on game mechanics and strategies.
+- Engages in conversations about personal experiences and interests, such as food and travel.
+- Has a strong interest in AI-generated content and its applications.
+- Wants to provide well-reasoned and detailed responses to specific questions and topics.
